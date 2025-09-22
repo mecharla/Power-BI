@@ -84,6 +84,3 @@ This Power BI dashboard provides a comprehensive analysis of patient waiting lis
 The Patient Waiting List Dashboard empowers hospital management to make data-driven decisions for optimizing resource allocation, improving patient care, and enhancing operational efficiency. By leveraging insights from the dashboard, stakeholders can prioritize interventions, streamline processes, and ensure timely access to healthcare services for patients.
 
 ---
-
-## 📂 Repository Structure
-
